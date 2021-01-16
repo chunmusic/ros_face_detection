@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/pongsakorn/intel_realsense_driver/devel/include/**",
+        "/home/pongsakorn/ros/workspaces/quix/devel/include/**",
+        "/opt/ros/kinetic/include/**",
+        "/home/pongsakorn/ros/workspaces/quix/src/quince_pkgs/flipper_flapper/include/**",
+        "/home/pongsakorn/ros/workspaces/quix/src/common_pkgs/h264_image_transport/include/**",
+        "/home/pongsakorn/ros/workspaces/quix/src/common_pkgs/image_reprojection/image_reprojection/include/**",
+        "/home/pongsakorn/ros/workspaces/quix/src/common_pkgs/image_reprojection/image_reprojection_plugins/include/**",
+        "/home/pongsakorn/intel_realsense_driver/src/realsense-ros/realsense2_camera/include/**",
+        "/home/pongsakorn/my_move_manipulator/src/realsense_gazebo_plugin/include/**",
+        "/home/pongsakorn/ros/workspaces/quix/src/common_pkgs/rqt_emergency_stop/include/**",
+        "/home/pongsakorn/ros/workspaces/quix/src/common_pkgs/audio_common/sound_play/include/**",
+        "/home/pongsakorn/ros/workspaces/quix/src/arm_pkgs/twist_jogger/include/**",
+        "/home/pongsakorn/ros/workspaces/quix/src/common_pkgs/usb_cam_hardware/usb_cam_controllers/include/**",
+        "/home/pongsakorn/ros/workspaces/quix/src/common_pkgs/usb_cam_hardware/usb_cam_hardware/include/**",
+        "/home/pongsakorn/ros/workspaces/quix/src/common_pkgs/usb_cam_hardware/usb_cam_hardware_interface/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}
